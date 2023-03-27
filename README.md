@@ -1,7 +1,7 @@
-#Introduction to Computer Science with Python Part 1
+# Introduction to Computer Science with Python Part 1
 Course tasks offered by USP through Coursera platform, completed on 08/03/2019.
 
-##Topics covered:
+## Topics covered:
 - Introduction to Python
 - Conditionals
 - Loop Structures
@@ -10,14 +10,14 @@ Course tasks offered by USP through Coursera platform, completed on 08/03/2019.
 - Nested Loops
 - Lists
 
-##Final grade: 96.24%
+## Final grade: 96.24%
 
 --------------------------------------------------------------------------------------------
 
-#Introdução à Ciência da Computação com Python Parte 1
+# Introdução à Ciência da Computação com Python Parte 1
 Tarefas do curso oferecido pela USP através da plataforma Coursera, concluido em 08/03/2019.
 
-##Os conteudos abordados:
+## Os conteudos abordados:
 - Introdução ao Python
 - Condicionais
 - Estruturas de Repetição
@@ -26,4 +26,4 @@ Tarefas do curso oferecido pela USP através da plataforma Coursera, concluido e
 - Repetições Encaixadas
 - Listas
 
-##Nota final: 96,24%
+## Nota final: 96,24%
